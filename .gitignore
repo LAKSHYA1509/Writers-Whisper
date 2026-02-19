@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+streamlit.log
+verification.png
+verify_app.py
+venv/
