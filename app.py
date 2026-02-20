@@ -20,13 +20,13 @@ st.markdown("""
         footer {visibility: hidden;}
         header {visibility: hidden;}
         .stApp {
-            background-color: #f9f9f9;
+            background-color: #00000;
             color: #333333;
             font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
         }
         h1 {
             font-weight: 300;
-            color: #2c3e50;
+            color: #fffff;
             margin-bottom: 0.5rem;
         }
         div[data-testid="stAudioInput"] {
